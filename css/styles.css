@@ -1,0 +1,94 @@
+body {
+  background-color: #212121;
+  font-family: 'Nunito', sans-serif;
+}
+
+.navbar-dark {
+  background-color: #141414;
+}
+
+.main-font {
+  font-weight: bold;
+  color: #ECECEC;
+  font-family: 'Rubik', sans-serif;
+}
+
+.container-fluid {
+  padding: 5% 10%;
+}
+
+.main-div {
+  padding: 30px 20px;
+  background-color: #141414;
+  border-radius: 20px;
+}
+
+.main-img {
+  width: 80%;
+  margin: 30px auto;
+}
+
+.hl-text {
+  padding: 0 30px;
+  margin-bottom: 0;
+  font-size: 2rem;
+  color: #7986cb;
+}
+
+.para-color {
+  padding: 0 30px;
+  color: #ECECEC;
+  font-size: 1.4rem;
+}
+
+.btn {
+  margin: 1rem 1rem 0;
+}
+
+.sub-div {
+  padding: 2rem 1rem;
+  border-radius: 20px;
+  background-color: #212121;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.block-margin {
+  border-radius: 30px;
+  border: 10px solid;
+  border-color: #212121;
+}
+
+.block-color {
+  padding: 0 30px;
+  color: #ECECEC;
+  font-size: 1rem;
+}
+
+.prices {
+  border-radius: 20px;
+  background-color: #212121;
+}
+
+.prices-text {
+  padding: 5px 0;
+  margin-bottom: 0;
+}
+
+.bt-text {
+  color: #7986cb;
+  margin-bottom: 1.5rem;
+}
+
+.avail-size {
+  font-size: 2rem;
+}
+
+.block-img {
+  border-radius: 20px;
+  margin-bottom: 30px;
+  padding: 0;
+  width: 95%;
+}
